@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Hello from first step");
         System.out.println("Hello form test");
+        System.out.println("Hello form test2");
     }
 }
